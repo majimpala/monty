@@ -38,7 +38,4 @@ For more information on the files and description of this project visit the [MON
 All files is formatted Betty style and checked using betty-style.pl and betty-doc.pl
 All header files is guarded
 
-## Authors
 
-- [David Atat](https://github.com/daveeazi)
-- [Mercy Korir](https://github.com/MercyKorir)
